@@ -6,7 +6,7 @@ order: 11
 ## Process
 Authors will be invited to submit their artifacts after their papers have been (conditionally) accepted for publication at OSDI.
 Because the time between paper acceptance and artifact submission is short, the AEC chairs encourage authors to start preparing their artifacts for evaluation while their papers are still under consideration by the OSDI Program Committee.
-See the [guidelines for packaging artifacts](https://sysartifacts.github.io/osdi2023/author-submission-guide#submitting-an-artifact).
+See the [guidelines for packaging artifacts](https://sysartifacts.github.io/osdi2024/author-submission-guide#submitting-an-artifact).
 
 At artifact-submission time, a submitter will choose the criteria by which their artifacts will be evaluated.
 The criteria correspond to three separate badges that can be awarded to a paper. An artifact can meet the criteria of one, two, or all three of the following badges:
@@ -57,7 +57,7 @@ Participating in artifact evaluation does not require you to later publish your 
 
 Some artifacts may attempt to perform malicious or destructive operations by design.
 These cases should be boldly and explicitly flagged in detail in the README so the AEC can take appropriate precautions before installing and running these artifacts. 
-Please contact [osdi23aec@usenix.org](mailto:osdi23aec@usenix.org) if you believe that your artifacts fall into this category.
+Please contact [osdi24aec@usenix.org](mailto:osdi24aec@usenix.org) if you believe that your artifacts fall into this category.
 
 ## Review and Anonymity
 Artifact evaluation is **single blind**.
@@ -73,7 +73,7 @@ In cases where tracing is unavoidable, authors should notify the AEC chairs in a
 ### Registration and Submission
 Submitting the artifacts associated with your accepted OSDI paper is a two-step process.
 
-1. **Registration:** By the artifact registration deadline, submit the abstract and PDF of your accepted USENIX OSDI paper, as well as topics, conflicts, and any "optional bidding instructions" for potential evaluators via the artifact [submission site](https://osdi23ae.usenix.hotcrp.com/).
+1. **Registration:** By the artifact registration deadline, submit the abstract and PDF of your accepted USENIX OSDI paper, as well as topics, conflicts, and any "optional bidding instructions" for potential evaluators via the artifact [submission site](https://osdi24ae.usenix.hotcrp.com/).
 2. **Submission:** By the artifact submission deadline, provide a stable URL or (if that is not possible) upload an archive of your artifacts.
 If the URL is access-protected, provide the credentials needed to access it. Select the criteria/badges that the AEC should consider while evaluating your artifacts. You will not be able to change the URL, archive, or badge selections after the artifact submission deadline.
 Finally, for your artifact to be considered, check the "ready for review" box before the submission deadline.
@@ -137,4 +137,4 @@ There are several sources of good advice about preparing artifacts for evaluatio
 - [HOWTO for AEC Submitters](https://docs.google.com/document/d/1pqzPtLVIvwLwJsZwCb2r7yzWMaifudHe1Xvn42T4CcA/edit), by Dan Barowy, Charlie Curtsinger, Emma Tosch, John Vilk, and Emery Berger
 - [Artifact Evaluation: Tips for Authors](https://blog.padhye.org/Artifact-Evaluation-Tips-for-Authors/), by Rohan Padhye
 
-If you have any questions about how best to package your artifact, contact [osdiatc23aec@usenix.org](mailto:osdiatc23aec@usenix.org).
+If you have any questions about how best to package your artifact, contact [osdiatc24aec@usenix.org](mailto:osdiatc24aec@usenix.org).
