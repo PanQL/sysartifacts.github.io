@@ -6,7 +6,7 @@ order: 20
 ## Artifact Evaluation Committee Co-Chairs
 
 [Jianyu Jiang](https://jianyu-m.github.io), Huawei Technologies Co. <br>
-[Ji Qi](), Institute of Software, Chinese Academy of Sciences <br>
+[Ji Qi](https://lililqth.github.io/), Institute of Software, Chinese Academy of Sciences <br>
 [Cesar A. Stuardo](), ByteDance <br>
 
 ## Artifact Evaluation Committee
