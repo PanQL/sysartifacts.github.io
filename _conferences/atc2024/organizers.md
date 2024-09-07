@@ -93,8 +93,7 @@ Ted Shaowang, University of Chicago<br>
 Tanvi Sharma, Purdue University<br>
 Hamza Sheikh, University of Utah<br>
 Xiaoxiang Shi, Shanghai Jiao Tong University<br>
-Vladyslav Shumanskyy, King Abdullah University of Science and Technology
-(KAUST)<br><br>
+Vladyslav Shumanskyy, King Abdullah University of Science and Technology (KAUST)<br>
 Salvatore Signorello, Telefonica Research<br>
 Sudheesh Singanamalla, Netflix<br>
 Ray Sinurat, University of Chicago<br>
