@@ -10,7 +10,7 @@ reproduced_name: "Results Reproduced"
 
 artifacts:
 
-  - title: "Data-flow Availability: Achieving Timing Assurance on Autonomous Systems"
+  - title: "DData-flow Availability: Achieving Timing Assurance on Autonomous Systems"
     badges: "Available,Functional,Reproduced"
     repository_url: "https://github.com/WUSTL-CSPL/Shore-Userspace"
 
